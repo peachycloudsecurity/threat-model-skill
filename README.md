@@ -28,6 +28,11 @@ Restart Claude Code (or start a new session) so the skill is picked up.
 
 Ask Claude Code to "threat model this codebase/repo/service" or "create report-<name>.md".
 
+## Workshop / Lab
+
+See [WORKSHOP.md](WORKSHOP.md) for a hands-on lab: skill best practices, how to create your own
+skill, install steps, and a full demo run against [openreplay](https://github.com/openreplay/openreplay).
+
 ## Contents
 
 - `SKILL.md` — the skill definition and workflow
