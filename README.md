@@ -9,11 +9,20 @@ Every claim is verified against actual source before the report is written.
 
 ## Install
 
-Copy this directory into your skills folder:
+Clone the repo and copy it into your Claude Code skills folder:
 
 ```bash
+git clone https://github.com/peachycloudsecurity/threat-model-skill.git
 cp -R threat-model-skill ~/.claude/skills/
 ```
+
+Or install straight into the skills folder in one step:
+
+```bash
+git clone https://github.com/peachycloudsecurity/threat-model-skill.git ~/.claude/skills/threat-model-skill
+```
+
+Restart Claude Code (or start a new session) so the skill is picked up.
 
 ## Usage
 
